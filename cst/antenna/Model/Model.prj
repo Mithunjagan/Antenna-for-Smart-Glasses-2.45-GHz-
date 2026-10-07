@@ -1,0 +1,13 @@
+{
+   "Author": "mith1",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "55,440",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:antenna.cst?e57b942d19e80223655381b3d0ca761c?11767:numberofparameters=24:port=1>mode=1>zre=0>zim=0:::substrate_tand?substrate_er?feed_start_x?series_c_pf?feed_x?copper_edge_clearance?housing_air?housing_wall?via_plating_t?via_drill_r?via_outer_r?radiator_y?feed_y?feed_w?feed_offset?short_offset?ground_l?tail_l?trace_gap?trace_w?copper_t?substrate_h?board_w?board_l",
+   "ProjectVersion": "'# MWS Version: Version 2026.4 - Apr 14 2026 - ACIS 35.0.0 - Learning Edition",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}

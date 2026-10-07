@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928" creator="modeler">
+  <Objects>
+    <Object name="Lumped Elements\series_match" id="7">
+      <FatArrow position="25 1.92499995 0.817499995" direction="0 0.25 0" dimension="10 10 10" material="$WireMaterial$" text="series_match" short="series_match"/>
+      <LineSet points="25 1.79999995 0.817499995 25 2.04999995 0.817499995" stripped="1" material="$WireMaterial$"/>
+    </Object>
+    <Object name="Ports\port1 (50 ohm edge launch reference)" id="8">
+      <Cone position="24.8500004 1.10000002 0.400000006" direction="0 0 0.834999979" dimension="10 10 10" material="$PortMaterial$" text="1: 50 ohm edge launch reference" short="1"/>
+      <LineSet points="24.8500004 1.10000002 -0.0175000001 24.8500004 1.10000002 0.817499995" stripped="1" material="$WireMaterial$"/>
+    </Object>
+  </Objects>
+  <Materials/>
+  <Groups/>
+</CSTAuxiliaryGeometry>

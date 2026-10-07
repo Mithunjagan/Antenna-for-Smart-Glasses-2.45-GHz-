@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Lumped Elements\series_match" id="7">
+      <FatArrow position="24.8500004 1.92499995 0.817499995" direction="0 1 0" dimension="10 10 10" material="$WireMaterial$" text="series_match" short="series_match"/>
+      <LineSet points="24.8500004 1.79999995 0.817499995 24.8500004 2.04999995 0.817499995" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="24.8500004 1.79999995 0.817499995 24.8500004 2.04999995 0.817499995" stripped="1" material=""/>
+    </Object>
+    <Object name="Ports\port1 (50 ohm edge launch reference)" id="8">
+      <Cone position="24.8500004 1.10000002 0.426832229" direction="0 0 1" dimension="10 10 10" material="$PortMaterial$" text="1" short="1"/>
+      <LineSet points="24.8500004 1.10000002 -0.0175000001 24.8500004 1.10000002 0.286164433 24.8500004 1.10000002 0.286164433 24.8500004 1.10000002 0.567499995 24.8500004 1.10000002 0.567499995 24.8500004 1.10000002 0.817499995" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="24.8500004 1.10000002 0.286164433 24.8500004 1.10000002 0.567499995" stripped="1" material=""/>
+    </Object>
+  </Objects>
+  <Materials>
+    <Material name="$noSnappingMaterial$">
+      <Drawstyle color="0 0 0" transparency="0" linestrength="5"/>
+    </Material>
+    <Material name="">
+      <Drawstyle color="0 0 0.949999988" transparency="0.600000024" linestrength="0"/>
+    </Material>
+  </Materials>
+  <Groups/>
+</CSTAuxiliaryGeometry>

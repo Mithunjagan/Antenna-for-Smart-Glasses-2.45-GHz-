@@ -1,0 +1,13 @@
+series_match
+ground_l-short_offset+feed_offset
+feed_y+feed_w/2-0.05
+substrate_h+copper_t/2
+ground_l-short_offset+feed_offset
+radiator_y+0.05
+substrate_h+copper_t/2
+25
+1.8
+0.8175
+25
+2.0499999999999998
+0.8175

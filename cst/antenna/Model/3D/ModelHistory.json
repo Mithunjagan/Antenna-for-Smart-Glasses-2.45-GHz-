@@ -1,0 +1,345 @@
+{
+    "general": {
+        "version": "2026.4",
+        "date": "2026-04-14",
+        "acis": "35.0.0",
+        "buildnumber": "20260414",
+        "project_type": "MWS",
+        "length": "mm",
+        "frequency": {
+            "unit": "GHz",
+            "minimum": "1",
+            "maximum": "3.5",
+            "minimum_expr": "1.0",
+            "maximum_expr": "3.5"
+        },
+        "time": "ns",
+        "created": "2026.4|35.0.0|20260414"
+    },
+    "history": [
+        {
+            "caption": "01 Units and design parameters",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04dd46855ca853b5b8cf3583ac9b45fba8c66491bd62b5faa6e2fd0473aa0c3e534bec2a81471fc961744c8e206ae5a79a14405ff73a35573089c4800cf5aed3af2bf5510bdfcb2cf509e2c72929595f0a577b3bb18ce5ecdab1ed977bee382d1705838bff048ab74f50fc1dc98affd75bcc521938626db29f926b61468e65ae58f83e566f67a448a590337b456fbb1da75ecd83bb9dfeae38195a65c116b3b8335bb26f023c61abe4d491ce0a71664edbcf129af00eb0cf4789e49a35b07b961ba71e07c9bd8275badd4d6852d2eef21acbf908c7ff43c11764af2455f0a7eed5a54d9dc5babf852ec7ceabbc139e4e00a3321a5063e12b5cfcf0a2e1cb8902f0b8601166df1911ac5e07813fae365c1f8b30bc91661ac9f66ec60ffb10274500aa291b4e7863bc80d6a1ded6f1fd2a9044d7e531542c7bcf6aa1204a0a8f43885ad504d3b87258d7d8970dc47e603d5348a7f7e23325d3481f09daa08b28f65f8b87417b220c17a4a690bd842184cd69139aff75ddaf272ce3f5af1fc9ec951f8f9b2fc7592162beb210e8086402f4770df181abb660e545a846d2c4439bc0164faf3243b01f62d3f7cdb069dbab6050e79f18c4ea383cb686f957b156b2215293856fc4711397354dd030dafeae98bc1e5f184c6c41520b56152a91ccf7de5fdbd0ad73ed40de059067d659e722425755b5639820d934965e742bff779bb934503b48a05e85d5ea77a34f6065b20ceba44287c9efd5f97dc71fac5852bd3ab15cdc741497fec670855ccd11e18a897dd5a85e952b15cd45bcb29814cf76b03cdcc0fbcb0ce9b3eac3ca02c6a58ca24119919a1bb439038361051495ec5dbe93843353b1fd33f02f9aa478b96564d34db6f3b3f42e8b7357637b50888e72c471f16d19bd7b8a07ddf0ea3865f8f785a5d48da387306014f7f21850b2eb39922e8b6eb570610cb571052e4b20f89424cc5221a90f0f798620a9b808d9f4a81125ae98325f9fcf68a3f2667f4c4b49fcedc0ef665fc26b1e73fe9789a36d3ba7f4922fdaef1dd744f889417fea326364e924640f4236c998aecc73a9f778235241287eb6666a48ac93dd679784d9328c3fcfc502c1b24c28238b4cb8a40187d490177832508c5d345eadf2b202369c4ca331638de5d9dae3a4972ec594c5ba3ee96056df60a425d1c35f682dbe9908e9daf23a1e7fd51457cbacc4671fefdc9417a0e05c868d96e01e3c48233f5d5eb0799a110bfc71c258335f0fe85b7f78ac8c6119ff8831ded570794fe5ad5363336f7226ea559927ba606a7205cd57d07a5d951c57dfd3cd03e462db2d4f53ba0072534f58aac0b466ee713fbd0e7ed67778ca1e6b348253c279ae4fbe825eb4a1716ff0349bfb63ada3ea8f90ce536ffac4297d8b98a252ff92d8acf8d6b314c5cdddcd4117fcc15b11e994f2e3cecb81d1c43e0a5d2049ec5ef1c9e46863a86e6bbaa456006810d67639495c9c6f13aeae6412101ad6b3ce1ec45e850b67aa01020c092980d2b52e456ae7133c8f8a69ec824582b61203b08590ebd5206124e19135abb9a48058e63f57451958311c43c1b43bad83c0db70e593cdbd0529d9205d365846763edb739dfa02299c6f1d62be660cf47368e081649bd6ed8315be18edf0ee097365b8ab950eda3896e35197a1c150093a598b345a0b1dd3e04c55a2ca15ed03dc88cf6f8e7e5d6c9896664ac2a7ae382da1d4a0598ae6314c70b06e06\""
+            ]
+        },
+        {
+            "caption": "02 Explicit substrate material",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04220167cc60e1024ea8fb739ebdf6c17913a76836eeaabf716068cbc4d872e08f99c9a797ab26605e76117e1647c701226f2695fc521b9246139d71854b017f2e071da21be5663979d829531a8d437fd55e07e6b126a21ea3e3aeb9d781f3010aeffea29ac2a670ebc9b0f4a6c756fecf8198d23a23a96818257c9dea53791a68ffb89aed28a62c38047f5a367b28c789e9344f794df8e375541d9d2e30ad71847142bd12c56d3c8a540fa5ed2fcde1fe07c90c6297cc033c1ee01b3a57aa484cc56a96e5010e11e48adaf14dd1f0bd21b1ae3649893770804a7a6d94a0d8abdc34bbdf4b258e9dbaf4b63371f62a72ab61d8c840604d31bb9193fd305d757aa1ab1e0318909582bc57c87167f12e5d2856c46a38bfea6d62d4c26aa0b8ca4745b3ae073ef3f876658b58d6956eaaac9b\""
+            ]
+        },
+        {
+            "caption": "03 Copper conductor",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"048b5f4f299ccbf8d1fe8289f15617894292d95ea13e746bfe5e3257fd1b54fc9d253f249351edccf77127c19b9519aaa46a0c42b81685756f836ec31e5d1068057daaee017b25890c8109838de919d8dbf3616ecdfb75f6f10f92d70960d34a5ae5b65319b5443a40ea1f651004750fac14cddb729b7e3dcdeb5cbe2faf4f4f6dc3447c4715241de1747164e31a454b0212c376678b957acc551438c18808c25b00efa8798c27d0aa5f1bb1c2617f87b11a53a95d39bc7069f06952ac7ab7fae44ebe51e5ea21ff3857361ef62a8cc863\""
+            ]
+        },
+        {
+            "caption": "04 Plastic housing material",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"045c064b6ec1c36f0b36967c51cf059af235854c9e293d0bf9018c7e28ca8cdacc0869c5c8fc1df75c3185ed66437d960c412f20bc2e8de4a21bd508cd1e342db945126ec29277ae2c41e3c22e281e5478bd05fcf26b5ae44c052ba2221e85763c5f2da3de1afee96804e9d87eecf173823aed49df7d40a798bcc0ea4f1023137cb5adb1d187a96129a4464faf1facf718e2e6371178ac4a64aa64d4663379b3001f3981e76169aacca7de3c03b5e2ca158a791752f97ca90c9f32512020b96025b82ba4b5b20968d2e7103197194c91f0077f00df69734e76d5477635230dcc4ec441d9359160d6f76a00f461b5148cd9b8eda1dc46d13169562052ec6d24b01a3639aff0c2928ff080b0cce6b66a9be530782341aea0d447f556cfaee007f868bb3095b30539de5cb9550bbf4fee4a59\""
+            ]
+        },
+        {
+            "caption": "05 PCB substrate",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04a4fa4d27476ec80693517ac81a360024b9bc3d027299d3fa3721880a071b99a34bfb9d6b123954427351eddc8e3db773683bdec4006e3797577a02afa73c7770509542a8fd043a65a29365a9e0f2305a7d84a34d112dd067723b6885159896f36f5d062439b018fa4b543244c66af90ba76dfb8d14c2789605f3e088d48cac9935f2f7ab8740548563d7d5db4d08bd9f28dc7c1a1aff425eff57d2abd69f3e9dc8bf683d4637e3ae78a177f49b1850d00cb22acbeb9e0ddfdcbdf8e7fa3d6cf6\""
+            ]
+        },
+        {
+            "caption": "06 Via substrate clearance",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0441f7f41bc2e15b7452613fffad7a0d0702d50215d100d8426c5fd12be46845e6acc5dfa084ad1263f1e0a17276d1937a438fc777424fde4248bb2d61d2f69ad93c54e54604479eefc4f8870d233dffa0cc20b35798ccb7ad746b1256f961b7908b4fd1438658fbee30aabc1c43dbc961e7e641ad7cd6cec10d6868f0b7862f66861922a1992c744635cd12f98322414d74b0fa0316280ef644bd722be3f3067cb5c908343bc35263c1c85e3b8794bc730995c536286ba4ec1a50bdcbe5a20a9eaf6498887feb03480d0cdc11741b13bf93d51ca3b0533209c51bc4509d3d9f2aafbdb67ba8190cab12682028d665aaaf4bc97520cff76820089cdc1fcf4d5109b6f7c50e57ea5ef189844dc346384cf31b015d91f74c78aeaa48733154bbe1d300991f20e3b33220bf9fcb8f9eb4def8a5b672d5ebffb88b9ebc1e851daca2335cd1f46f974d67d1dfce0315b20ff39f6661274f528a8d31caff2c02bcd58deffadf8782280b08de68c63af4db655d57\""
+            ]
+        },
+        {
+            "caption": "07 Finite head-facing ground",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04f8cb495ca8631afeda6a7e6c7c4739c195a52a1bed54e622992044be843dd9e33fc1ec453d82a1f6c3402f31d0821eac97b72871ee87dd22fce51569b9b182d44a12522ab982d097ea582019cab60753ffa390071000f9aa4c0be76f13f5abe929f26a68f503ef06b7686ec4d82ba7d4a3d624f87211b5d16911337c7d52d4d4b43c2868974fc9ed0c7a5804d5c6e72a00ea553e0368ea5d2e958c89b7026478720a6467d0348503e97da32be7b80d5f1b94e7340ff4b3ef5b92b8bfa394214aa37fd7c96a63c3c0c9e2be9fa8f8f7e6faac8177083e21e7d6325690789a4d7dff1df952611a213a4d82080935832aeb\""
+            ]
+        },
+        {
+            "caption": "09 Radiator segment 1",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"043547d961bccc99e2f5cf5ed37e88c0e56b38474c3ea867292becef9fedf5ad2eb163a7d24b9e90d10519a71f88459c00868ce52c22da4ace4c44f0c318387fc6a8ed55ea4ab716d93e3c95ac4f6a11d1f4aff3d8409f1faf835d7884bf374121bc317f17ff9b3a6cca35d10c3ced226b69f5b6155ef0e01153bb7e8ee740d70d4a1d8ee67d3bfc669bf32f1f027956b7966fa1ac69b0c41fa08890635677d00a7aad564d8cb54f24522adc13bb0a4fde4f1948b036beb90f404c737cd556212e13f4f68944c0c9fa7d837c4b529cc9562a394cbd9ccacf8eaafd8bc140778685602c6fde4becbee3d9f7b8e873353fd8933b1b4e11676f9c9a437bf0ad8cc751e2edaee471137054f8b472f2edba4947e5cfd59ec8994aa30dd78155421caded71aa90d2bea342ea9f8412696c7661e8\""
+            ]
+        },
+        {
+            "caption": "11 Microstrip edge launch",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04b5c74691397b394c91ecc054cba72eaba79757bb3dc9f86b380f11a815a1a9b432081b9171882c43dc1ed449baa32206f945c3f8b69b411a3e45f1b49c4c7cd8a4a478ddd115679ff0fbca2c20cbdf7ec1d15265d07e2d65866b44c2ad05659752cda40ce471f08250387de4ce7a60ba3bce667d8e54c3347b0d97b6b6c3a708a5abcab8d0e684544c47a9682f90463369ad57f111380cf34fffcf6bf59cfd51cc2ed85b5f2efd40b02a0069aab44a5d1bb64d8c2ced0fabec097e3db17bdd8a6f9c89565a21dbbc48715ce96f13239802efaa4e2cc6a3508a62e36aadc2c9dfef55802951e4594a454499c610494e17b844a6c133cda17eb9eff94a3462795a9e84f4a9517642ba2210460e604b8ede\""
+            ]
+        },
+        {
+            "caption": "12 Feed tap position",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04d3ec99ffdb5611d7ff3dd180b538674a1215a9ea67cf317c3f93d2a5ab8e29bef9603d4a25881ad652fb5ac05aff3c89de430bae21e579e88237a938fa39da59383a8094cf4c790ff0e49951666b6910fa331baa891f63c0ea42f2895e1b9bae9e30574b36d77438a75f70c643d1b8c2df22a077a14c72c35bac4a6c04e5243e7ee19bbde69e9fcca7c6f1978cc44a190ddb3e0917c19c7a0e43aa2bfab24d40c01dcfcb0ae3af2af0e9a0db8f2e28eba48a77d58a32585b65c7fcea0cce8691514c14cb55d556a45984c0d4620515dc55019999dccbed8ec84905c9c675d124d17b9d961149676f90d959e855910d65fb95a029796538c67b00281d253bb8fe459382471b4ec5293c1f6a347705af1ec530ec13af3db6a89b10bb369b2be0b09689f9bb3e65a3b5f9d85b93344f818c\""
+            ]
+        },
+        {
+            "caption": "13 Unite connected top copper",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0437be7ecc80e9880551ae619be4180695f0e3796978b6bfab8e91ca9d9c300e3cab7928641c831ffda0edd2506861ff9b15ccc486737537415c297c6264334e88\""
+            ]
+        },
+        {
+            "caption": "14 Drill bottom copper",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04f6f4bebcd9fc4dba0f31a53868a571a31903cfe5c06863d6493f2b47ddd767930ef60b286c9ac2ae310c1b19b0f6fa636edb62b989cac636e81c257573f48eda8b5e9e026f1678878abeb085b6330a70eb13f86965aade3bd31c2781a89396458777626c2ad215973442a171e585934d6c2d1dd9f72cd6e199adcc9c51d4dfa9ddc4e86fb676884851461d7f73ed2c06b617faa5762d4216d5404c324a69b042d2bbae3c820735ee72747c282b063112425720da6c7ac427a9bd0ce29ab1a942508e1e373ff27abcaaa725d89d006ec8ee1d2d834a18515d01279b8876dc832296c3a74b5133191d684854eda406d6d717c389f6fb4b47e77dd5ca4ba734b7115e28af3e6c8f009c6edaa9ddffe5f896c49f40f8901e0d4a2255a989d416d4d713f985eaf5db3f6ebe13ed1645b0dada307e7cce677684488102bbf12a9482a4e59ccb27dfd6560af3475caa4ee9a53da2ea6f1f28f3a335f1c4174c3ada0408\""
+            ]
+        },
+        {
+            "caption": "15 Drill top copper",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"049c45fbcf122643edfab062a9743e3c84c4767366815e66bb70d0c8c0ba2f6d211a3762607c0da3ead91c54a542f68370e7ed8830c5340bc425b46dc9b2f7768fe1cc17f793867df5c32bf0899d179385a870c77d22bec77174da0d1457f1d7f1112bcc36a92bac951161fa78bc0d81a0ccd48bdf1fd4fa22a43eda4010eca5008965bbd594e5e720aaa273262e1ff82c9c9ef7491ea89d086e577439c03fd7c99ee8c196d4969470483650fe34651a147bd7acba9f7c58b44407ee9ad0866935ae107b8592a64a9b39e05a533da445fcdc723bf0ee520b898b64de2f7b9f6800144fcecf4d477692f01df210b31b405a6421e39f375f341c191ab4d29374311d21b711e18d7e7d42dd5c153e681831d37af813b27cd43521e5f704f34aefa1f9d64753f733705a175c920ea305cf5e9158d87a9eaa89cbc4676fb0074f2114487d5499280f3bbb73f9bc12f3000e15cdabb90e5be40663c97089ec1fff6470df\""
+            ]
+        },
+        {
+            "caption": "16 Plated shorting via",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0480984417112d06e2e18e2b1841af6fc9e79fdae9d444faed221c8c10cdc37fec0d4a1e1099e8e590d572f286596b698736ae1bbcf0e8ebfeac9ffe6454b086c595340af31413616d61228180a0933f1514a9f99f1c7b5bad0eaaee2f3abd61f06d3796267c20122cbcd20be9c8140867cb458b0b566738c95c7ea04e5791915c8cdfb11d96c1cdc9768eb94aa0efbe6dbeaaec8f479ed29f7733f012e2f813e14279bfd2491d042b295476077199d71f1494093b57d8be93e477da69a1a9c6b7a2417c0f52fa7faae5d8cff9d37ecbb109d381747cbe5d186eebaebaf8c94e2b386b5f8a7284328a0da630c0f0fa8f6f42888fac470b539a181c1bb50467aebf4acf46f048d6930ab0859f7fc62e7e788880c7fd633f6c166f04d603e79927096eb8c20de391d452e54d9603cfe64dc91c90a675c75eb87c7b12195c724a9698c012f51bbe84cdebc632c9c855c97565\""
+            ]
+        },
+        {
+            "caption": "16 Explicit plated via pad top_via_pad",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0446d1799fb6f6c3e98798a75b1cf4d4d39801a449fb62cbb0629cf96692b5cff5e5b7925537bbe601fc095f4b0b618a4a4a217cfe5c6df06abdf6707f24a8a395400d608e5fb285c4725faa6faa59e7ae0233b3e2006b676a136d8573e5f57178921c78fce4bfd560d0665e4d1e4cd53a6a86911690ba623f4eb2b3c403ede110583e04419038f639443372ca9e72958b27dbbb8a5df177a1acf37f0e2e0992a0e9c58927bb9aff3fe6e264fe34532174d4b3c624ec8398b07d0e0e1b1bab4f83135518648198a6175ef9c45e1377a3567bfe17e36e0b7b8be19033e5a7ab38835f313036540607765fec4189348a715ad22f49e9b17cb95e45cb302984ce4ce5a6a24e6ba523f9a76df0ce5f1659461453083e2a94fbba0dc56efe872ab1d448798864cfe46bb92321bbcc8f4cfb9ec50a2c2f01a3c62f80db0681a9ca9c919a4776474fa4e882c4c320cae197e43e3a607be7ced0903359767bc61b07dcd5189d1bf2e19a98b44666fb73f7ecdc97d4\""
+            ]
+        },
+        {
+            "caption": "16 Explicit plated via pad bottom_via_pad",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04aed89977eb19fa56a274c77d9e692a661b25d476db397adc7cf4206dc68bfe0206f6658e064324ae3c32838ae28dfce8f225876e6bb8e252a673c85e98af1a4a7b986f0fc86bde8ec1649c0b8e28a6d2e591fc9d1d4e14fd7d7954846c58f8bef3c825bd3f627682d8b0121dad15ce5534713c69f9175477cd03d8810841a29bcdab14b2ebe0c162fae797ba731dfbcb20381195e1f044c128cc2838be1da5f92c4fbab0f579c13c0c1a7c14339db5dfcb8b0dc120d09dc2a9a9eb4669048d6a8da5a18a2196b1f3c02cbe48379bdded2756259ec2224344865c842624e5f1d1482a8965774e9e3828836e5e2f140a8b409829b941acfce6d54d56e5227de9f32689815051c3da20b8cf0f6e659d245f12a0dc4281b0d861383950899ea3c2ea763aa72c9c337cdf0ad3c2036bef9fc6490b28538d374c971e2f31bd6bc6d3a3db29741deb2ca6e00aa333fb742096662e6d7dc84ad00c707fc6ca083118d640\""
+            ]
+        },
+        {
+            "caption": "17 50 ohm discrete edge feed",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04a5193bb8d5166d73778fb2703c9550ce79df531264e5f150939631c5d026b1d2d650befc5e1fc5a56929780dde73c44681bf9e4916e8378374e7e5f1fb8db3fcdf41abf09818bc47e40362aa848d0a1a7048f2941e76a5e3860f39082207ae1c760549276f088f17a5ddaeb8402ac5b60d5167ed229d3c744af14809faabe9b2a84634f648a0b62fa51ff08c45307748f3a144a6553b405fd49eb4eec714d9061fe5878bedad3996de42a2f0036311de249711a0f8df3eaef911770eb19eb1981e95fa1814c6e07b6aa7dcd16bffd022782a60bf0bb505767c59ec6527f3f153c4e999e9530d7590d3c4d174ef75ff7f8d739f47d4067014bc9ec4deb7751cf4e60057868089a3a2491061212ea3dba98f227ba68f22c64b7c6b28cd4995508f749b7f2c1af5afd89a1c7ca4a97bd78ebeaaff0ff87db9f8a0c9d75a8c3085c292f30caf01bc25d248f6dd8a57e68f01d4c287093ba59d8d1ec694704f0b95e6f3e5d59a86a7f962c6cd65405ce94b20\""
+            ]
+        },
+        {
+            "caption": "17 Series matching capacitor - ideal native RLC component",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04364d71e96b30ebe7b2586d192c35b467b28b2f6389f15c7a82a6b87e9e9542543ce34f5a35a0376f80bf555fef55630cd0a59db4df456bec59b72d0c2e1c768fa2615fc57344689246b011d2d9a35cfa10b61f4c170c85c61f569da62e08bc796ee50602821f59381fe5fc913f63fd8d3ced776279d85f14fc82fccba09bdf3b5c9365dd627a770513a54a3724afe9909858e06ba7d85b684db5d1da47713ee507cafacca22ef0019c89cbb9f326be981ba24a0562691e06144b4bf5216258b70609b26f8e810f4c7b0fa6e7b177dec6eb9050b4beead8d5013658931640442f3a4e556a7749748115c9ccbcf30d06808820aa647a02ccab42b7d318d5959384b9e843a28faba4cb7c3e055a4269590b2b48e37baa39f29dbd7cb2d4fdb654c9f220a3c316afe71caea21b82c36e8c56047be2728040e5d64550514f7ff0b3034aadba81aa8dc182d82e0fb02c109aa5644f067ed8b5b9d715b3bd0b0dfe2b979bb023c2cf1156003bd759906f7ed1364781362d40462952ecfcf747e42de94982cb99b9df63e812f26b9c0d5b888afa\""
+            ]
+        },
+        {
+            "caption": "18 Housing outer shell",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04d4a2ccaa2014781bda2020d6592662f41c9cd0d0f4874d3bab893e32e85189189810c8c14d432bda5f9e4fb330b00912794c114269bc5c3d25d98711d03a1097d2a24d19cec89a6b1307ccd0374b5ee31f072623025ef84edb3c258885e38692be647cda879f271bc44d8e8523fece56839acae09d57862a86355783e5c67f0244a7d865ba787b30b1355386c68839d678e0d582bb9b1e2989e2f51eb624f7bed72a622775a646adbf266d4c702c2df22c3b435d60dd00dacd9e4c241dcd9e915914a2ef8e232a664a3971880392e70712929c622d70affa1839ed70a87ec329132d7c9b68c662f5cd8118eae1a7cb71c358476aaa0bb08841ac626c4b41d776ce3fc6a589a42cf9390d0829730523b8a9b4cbfb86b170e4678826d7c877b3d323d9c526136212f82e943f2d15d713fd\""
+            ]
+        },
+        {
+            "caption": "19 Housing PCB cavity",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04f8cb495ca8631afeda6a7e6c7c4739c18f73abd72fe1adeaf72413eee7a219d8ef268832f14d97a4d762c3e0963c0871b3131b2263c50b4aacd88e5d60cb594eeb622e8c775482cfd09cd98c406127027fc4368ab59fecb6aa76c18d1985bcf05364487efe5cff3b77bd6cfce9043609cd25658ba9eeea2214c531f942db7d6771bc9200d49b531894cc721c65dfb1b490e7aab8ed2da8315c4dabf748201b88be9d528c8325f8f4e887d3b6c403a5ca4a33ee862703c812a8b925589d0f5388cd7e4cc0e1f95a5c37654897fd5124a34a020f83c20e0d80298d2480b957e3e2a1733f2f584c110ead85f926ba3f5c7d81525e880a6f7ccae39916f7eaa2f779e0c804ec14d93fcafd59acae54c5cd97\""
+            ]
+        },
+        {
+            "caption": "22 Time-domain spectrum",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04ad1f789bfcc8ec61523bb26eb8a9cb8b27a547ca61943a462d6a9d550aa0f84b03b0269178241aab84ed027389e299d84e93bfc7b3b40bf773c0917e42daad1848f0e754bd7477ef139f509cdbcf6e52\""
+            ]
+        },
+        {
+            "caption": "23 Open add-space boundaries",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04b85c237a40ede1452664d9084208294d88e99a3264b716def3af370c43c5be73f055480d78fc0a81184453121032f3d29ec5b4fa4e39673ecc24a538bd0215d96e4a60130b8c7bde69365287a95e40208ed87799b49b137b5f321dbba8cd5672064b802bc19fec8fa0a00bd2bfa9b1026f7e2019b6733008ec37b0ab8d1965cecceda80037f003a342d000b29094e0b1595dcaf4546e3b9e07a772636c090484765b4a273ae1a3be13f1f1047f4bb6057d551817d27187b7206cbcc5085fcfa8f2f3c7c3af609a3f43cc9a7152bb2ed2f86fe5a736068cc3fd2e276539c0dee71584bf145211917d8d8afa6e226beb743801566413fdd6e99cc37f3561a5be39875c75bfd87ee3bf81dc251d827a5efe0b75666b360799000d6c35eb4d781496\""
+            ]
+        },
+        {
+            "caption": "24 Mesh density medium",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"046b756932b97fb65db4db2bc785c5e91bcf2f12f8a7f30784dad06ab20ae575f743610afbe7814ba43d896d612776a49daf02dd1bc380b36f3445264e5be43b3fe427847ae9fe7348a127a44f1f7b15e70d115997a533fffa191ed5ac7ea805dd741658dce98e453b9ee3c362b1b8dc2cc85f3b3f83b074ec98b1749fd29b60bb3de8e78d25000fdc673e38cb7928a75743d0fdb987e969d0371fc3eef42b8c00276ae28076291980b28aedc5ad23716836c3e96e5d95b3fca527bb718a2bfb4a\""
+            ]
+        },
+        {
+            "caption": "25 Transient solver settings",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0461eafcabac0b01cfd593fbd212a96f258cb1ffff2f0b1162738894480f847b0db977452db4a27e71c0ed9349e0025f5ac5f2a12b5c63a892d9e8590c256d8a20d4a9e4664a07cce2d5ad68be3eec3830dc970b721d9d46f8b04b37d7eaa17598866a8bb3b73b442cd26ab41bf501874e9ad6f7161fdb03e5aefa1ea6acd6cd78a664c933edcdd96fbe515153ae1f0ade0ad6dab70dffac98479cb5512ec205e427ebeb92e40fdd95d098e5c52b2dde1d\""
+            ]
+        },
+        {
+            "caption": "26 farfield monitor 2.4 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0455a622dddf1228bc2c8170565f215d6767fca4032d6febe6ef56191dcdc44828cb669ac247bb6cf6ca1f9db85f35fe2a30dc50779652d46e1f866759993a2724256c3313ba832caf70635160b291d908d073414759c3656c6d8474beeb530f4f17920af467e91b5001bd09339b2f83370818a8c555ea7e714acd467f3d7de4854e098452dfc342ef80c1968924a3626641b86b1580c5c4d9ab6c583cee58f802dba56bd241df1af8729fce438e11709c\""
+            ]
+        },
+        {
+            "caption": "26 e-field monitor 2.4 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"048e8b50d93733c8a737b005864e267162e03e29e43acd20249b7d0d93df49293f5b63ce5785569ac87e65ebe0521ff6ad5e2f4ccc96f01bca691f96f89d9d7282a686a2d477dbba33e4b7e3f0f401c7da0b627a576b3f039434fc464ff483ba71f3f122daf4a541cf08f224fb08892d07c9f87db244534ca81c5f5b39c2529e07e293c80f6c82fda3028418c1672cb15f1eff000c620042560a54f931cb98323c5430325b988b2f48e0bef7c024b16ffc\""
+            ]
+        },
+        {
+            "caption": "26 h-field monitor 2.4 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04f13488bff2cf377c9213375f28b9ade0315a74e2a06ba737cede22ad71b6a5c5d25818b8848c45af7b3e0f2d4e8a9ed71f763468b280cfec809e7ed76c0de01195966f6c23e6db33e1f0810dd6abe266a85496eb5360fd7b5fc3e6979845ad019a3014d09418301982ab0a3636fb75642f6f34a0a5955177d6b519cb2c682e1e58ea4107a07538ad2337a145136496d9b2836cdbb6126e70da62614119768cfb0537080b073d7a6ad862b9cd1f2fae57\""
+            ]
+        },
+        {
+            "caption": "26 power loss monitor 2.4 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04f98a07aee3b76af53197c5f54506585f993e3f0a70d0218343a526b82340f7245b20025581155c04f650080d02aef135abb75005f8a7063738416c9f04c4f2802ab7c5f4900281cd4a1ead84385dc62ffe883e58013c9c1369b912396d7a74194d7fa0e8696df38af122e1d4d0f4f70b8f7d92390062bb41b08ef458bb8ca9c534212c78ba00304388720fd2ecca85b9df99e4eac118386675cc259b8c5d5a1fd2a6360aec1dded37d7b95232b2c9657ccf398a6c20c13c962c23f6aa8afadb8\""
+            ]
+        },
+        {
+            "caption": "26 farfield monitor 2.45 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0476291a0e64e947efc48c86845b9252a2009db24716f710919d9d54e979edece6decc9dcafcf185c4904be7cfe9840af6013742162a07553cad02054894f0c20ed4ff25398b9e4299195d1666cbc333c98dc07dc93f84f693fa34d81d2e0598ff81a2fc3da9dea94697e34026898fbf38f61797798799b9b6f6b8ccad0ce1c266dad0bc5e9b85044e2309b67993ac902b3050d2a07e2653bad94012684835513b307ffd219dbeaa910652ee8c729dba72\""
+            ]
+        },
+        {
+            "caption": "26 e-field monitor 2.45 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"040fc8eabe4760ab9fb3bac86d27e6d08ae2b0743f9f2b8c155c0976fba33421b1acda68e490dd6968fc863ad991bc7f80877a42ef3cfab752bd21737270762a1217cf824e247dd7e88dc22051f619a3d1092b5027a3c719a75202512ecedf6bcb18d68d6094a15c9226ca896e85030882162a44f89f2be86ce3a9b28762520fcdb10b19c038b9f26b5090582f5a43d452c605df5333f2908058587a9e58ed8daa26b72f8a7452db12adb1144af0c6d292\""
+            ]
+        },
+        {
+            "caption": "26 h-field monitor 2.45 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"047143f73998214768c95fb59a0f70d470d664fff611e2c7ff77da06be699796ac594a42db8fe99922c2d365e6d8c178c6cf97b5fdcd32177f8bf5d509879e0b062055caecf8b42067813e06fb98f7522316a548fc36556532ae52e17d68ed9203e888f27999557d9961e5ac4e69ac9368a8d78867c6ae3e2b66ae0e86020520dca474d1d511dd94b01da05a309ac25d0f9414717a7d9ee499b3178adf9384fad97b64812aff250e0a3cbb5d8b10174067\""
+            ]
+        },
+        {
+            "caption": "26 power loss monitor 2.45 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"046fddc1d1f05342c27497b932c0d7565c4dd178625fc2d992ffd676fc4bc5c0cb5271ebd6521a507a5cfd3df9efebc9c35c75be7167e49c87397c0d6fc2fe572a193ebcabfe05bb498339587969b81a7ef3ffb547ec06635d17a159eff85fde2645d78405cb3cd1958f1b5e36213a559e4ab4af29f4554dc433b4f3b4283fba1110a5002a003ef66094beb1672879be81e01b0f6c9053cd5b64c524646962428943c455b13c867b01afe8e5ceacf29a9753f0092b1e8dac077abcb9f04329b8f0\""
+            ]
+        },
+        {
+            "caption": "26 farfield monitor 2.4835 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"0442a3717074ab6d9e5fab73592551230774e4825a368be01b939b36ed3ee9c7d15917d87f7b56ee1042dfc8649f66e3d6b9f058537f84f42ca401cdfc0f24ecd31f614e0630dc84fd22b7dfa92af18779b0d77a52e6fb2cfe2354db86102338cf0e474d1652c31d8da4a49329c9a18d61a8ad6eb296a5defbc06b489114282bc15b988b869d5772d32389d5672121e2fa9cab3cbe9fa02a8c06909f56e939f6c5d1a0a0ce8b264b697446d9b052045b171848706fd166632c83795b21e337ebe7\""
+            ]
+        },
+        {
+            "caption": "26 e-field monitor 2.4835 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04ae0962d59034a41588ad0947e94f876dbe13340551be8c29ddba5f2523073ccdab30f0dfcbe36b166ef740d6836cdf4598a831d526723ac2258976e443d0fd228d978b202a1d857903b5c81d5be76dda3df47544a47503cd41229524d588f1b995d159945ce8b22bd8b01d067566379b3283b5ff4ec0fe303a9c19c35d5712d7192ac91de77db9088a4cd038d64612eff0e5b52165dc9eab4546cf2386b81a6672538bc9113cdf8a34ec8ff9f594f3ee0ddccee1851246698003bc5a3b3c476b\""
+            ]
+        },
+        {
+            "caption": "26 h-field monitor 2.4835 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"04c9df2762a257026cd74436f00d6088ebd9c31f97c7d1601637d410ce9d3c865ef2775223e7e970cae8f41d6678a083bae3be171303dea4c610d75d43cd6ab197f60043382cae2500d690709122471105c12bdbbe767df00b9e54b8f90492734d3edf089bb9a7d3e7107c215b094b758ddac965edede22312849ebe02f6ffb2e6286636052e3dd455b1c6cb5c7f6cb2efbd07ec1c9fba07033b1ce96aaf8bb335b74f345afeadd7b46dc7c597cd9bcaf34ad2463e1c1e8329e699227ba1de1c7a\""
+            ]
+        },
+        {
+            "caption": "26 power loss monitor 2.4835 GHz",
+            "version": "2026.4|35.0.0|20260414",
+            "hidden": false,
+            "type": "vba",
+            "code": [
+                "Scrambled \"043aa33bb46ae3dfcbce5d514261f7807731284d131555507174b2b08adebaf7753f309529364645d9ac377edd1007766cae83da304bc6817039ecdee727995bb7ed75b349c30e4400fd2c960f42cb9407db7906bb2afb7305307a9abba439c2da9272b2b8f44f5c86cb3adb6c5d77177c31cc86747fc3bcd3016239140587dd98dae41810699e1aa907bbb40851a50ce2d22f21356901f1c1be265c0ff6a0ed99750ce5d719206a076e17fb2e19d42943df9f110c21b143d15899103a9f8b03e7\""
+            ]
+        }
+    ]
+}

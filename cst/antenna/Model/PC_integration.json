@@ -1,0 +1,169 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "board_l",
+         "type": "float",
+         "value": 50.0
+      },
+      {
+         "name": "board_w",
+         "type": "float",
+         "value": 6.0
+      },
+      {
+         "name": "substrate_h",
+         "type": "float",
+         "value": 0.8
+      },
+      {
+         "name": "copper_t",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "trace_w",
+         "type": "float",
+         "value": 0.7
+      },
+      {
+         "name": "trace_gap",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "meander_count",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "segment_l",
+         "type": "float",
+         "value": 23.6
+      },
+      {
+         "name": "tail_l",
+         "type": "float",
+         "value": 23.6
+      },
+      {
+         "name": "ground_l",
+         "type": "float",
+         "value": 28.0
+      },
+      {
+         "name": "short_offset",
+         "type": "float",
+         "value": 9.0
+      },
+      {
+         "name": "feed_offset",
+         "type": "float",
+         "value": 6.0
+      },
+      {
+         "name": "feed_w",
+         "type": "float",
+         "value": 1.5
+      },
+      {
+         "name": "feed_y",
+         "type": "float",
+         "value": 1.1
+      },
+      {
+         "name": "radiator_y",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "via_outer_r",
+         "type": "float",
+         "value": 0.35
+      },
+      {
+         "name": "via_drill_r",
+         "type": "float",
+         "value": 0.15
+      },
+      {
+         "name": "via_plating_t",
+         "type": "float",
+         "value": 0.025
+      },
+      {
+         "name": "shield_extension",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "housing_wall",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "housing_air",
+         "type": "float",
+         "value": 0.25
+      },
+      {
+         "name": "copper_edge_clearance",
+         "type": "float",
+         "value": 0.3
+      },
+      {
+         "name": "feed_x",
+         "type": "float",
+         "value": 24.85
+      },
+      {
+         "name": "explicit_via_pads",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "feed_contact_inside",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "coax_pigtail",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "omit_soldermask",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "series_c_pf",
+         "type": "float",
+         "value": 1.8
+      },
+      {
+         "name": "feed_start_x",
+         "type": "float",
+         "value": 24.3
+      },
+      {
+         "name": "gap_mm",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "substrate_er",
+         "type": "float",
+         "value": 4.4
+      },
+      {
+         "name": "substrate_tand",
+         "type": "float",
+         "value": 0.02
+      }
+   ],
+   "outputVariables": []
+}

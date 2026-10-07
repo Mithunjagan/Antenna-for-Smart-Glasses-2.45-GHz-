@@ -1,0 +1,51 @@
+================================================================================
+--------------------------------------------------------------------------------
+ 
+================================================================================
+== CST Matrix Calculation Priority Log ==
+================================================================================
+Priorities are sorted in ascending order beginning with the lowest priority
+Priority scheme based on: material properties [priority defaults]
+All shapes have a 2D or 3D geometric representation
+ 
+Group | Shape-ID | Shape-name     | Material        |        Material-attributes
+    1 |        1 | frame:shell    | Housing_Plastic |     dispersive-mue.normal.
+    2 |        6 | pcb:substrate  | PCB_Substrate   |     dispersive-mue.normal.
+    3 |        2 | pcb:feed_line  | PCB_Copper      | pec.rho.surface-impedance.
+    3 |        3 | pcb:ground     | PCB_Copper      | pec.rho.surface-impedance.
+    3 |        4 | pcb:radiator_0 | PCB_Copper      | pec.rho.surface-impedance.
+    3 |        5 | pcb:short_via  | PCB_Copper      | pec.rho.surface-impedance.
+================================================================================
+ 
+--------------------------------------------------------------------------------
+ 
+================================================================================
+
+************************************************************************************************
+------------------------------------------------------------------------------------------------
+Geometry processor: default
+	Geo accuracy: 75.000000
+	Watertightness check: true
+	Self intersection check: false
+	Inheritance (all): false
+	Normal dominance (all): false
+	Normal dominance (ports): false
+	Flanges hollow: true
+	One shape per flange: false
+	Multi threading: true
+		max # of threads used: 12
+		requested max # of threads: 12
+		representation: indexed
+		method: multi thread
+		retry: no
+------------------------------------------------------------------------------------------------
+CAD processing settings are set to default
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+CAD Processing Version Info
+	ACIS version installed:	35.0.0
+	ACIS version used:	35.0.0
+------------------------------------------------------------------------------------------------
+Success method:	multi-thread-22
+************************************************************************************************
+

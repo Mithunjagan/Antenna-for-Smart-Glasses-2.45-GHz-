@@ -1,0 +1,4 @@
+Solver_HF_TD_AMD64 @ Victus:  ======================================================================================================
+                              432.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification (Solver) | 88.38 MB | 0.0000 MB
+                              435.00 ms | --> peak | SV-crop-all | Outside MCalcResultIdentification (Solver) | 88.92 MB | 0.5325 MB
+                              ======================================================================================================

@@ -1,0 +1,4 @@
+*.md text eol=lf
+*.svg text eol=lf
+cst/** -text -whitespace
+results/** -text -whitespace
